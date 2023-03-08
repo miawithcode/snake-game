@@ -1,2 +1,3 @@
-# snake-game
-Snake game using JavaScript | 用JavaScript编写的贪吃蛇游戏
+# Snake Game
+
+![](images/snake-game.png)
